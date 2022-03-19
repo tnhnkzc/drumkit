@@ -1,0 +1,190 @@
+h1 {
+  font-family: "Lobster", cursive;
+  text-shadow: 5px 0 #232931;
+}
+h2 {
+  font-family: "Indie Flower", cursive;
+}
+p {
+  font-family: "Indie Flower", cursive;
+}
+
+h3 {
+  font-family: "Indie Flower", cursive;
+}
+#btn-1 {
+  background-image: url(images/tom1.png);
+  outline: none;
+  border: 10px solid #404b69;
+  font-size: 5rem;
+  font-family: "Arvo", cursive;
+  line-height: 2;
+  font-weight: 900;
+  color: #da0463;
+  text-shadow: 3px 0 #dbedf3;
+  border-radius: 15px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;
+  background-color: white;
+}
+#btn-2 {
+  background-image: url(images/tom2.png);
+  outline: none;
+  border: 10px solid #404b69;
+  font-size: 5rem;
+  font-family: "Arvo", cursive;
+  line-height: 2;
+  font-weight: 900;
+  color: #da0463;
+  text-shadow: 3px 0 #dbedf3;
+  border-radius: 15px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;
+  background-color: white;
+}
+#btn-3 {
+  background-image: url(images/tom3.png);
+  outline: none;
+  border: 10px solid #404b69;
+  font-size: 5rem;
+  font-family: "Arvo", cursive;
+  line-height: 2;
+  font-weight: 900;
+  color: #da0463;
+  text-shadow: 3px 0 #dbedf3;
+  border-radius: 15px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;
+  background-color: white;
+}
+#btn-4 {
+  background-image: url(images/tom4.png);
+  outline: none;
+  border: 10px solid #404b69;
+  font-size: 5rem;
+  font-family: "Arvo", cursive;
+  line-height: 2;
+  font-weight: 900;
+  color: #da0463;
+  text-shadow: 3px 0 #dbedf3;
+  border-radius: 15px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;
+  background-color: white;
+}
+#btn-5 {
+  background-image: url(images/crash.png);
+  outline: none;
+  border: 10px solid #404b69;
+  font-size: 5rem;
+  font-family: "Arvo", cursive;
+  line-height: 2;
+  font-weight: 900;
+  color: #da0463;
+  text-shadow: 3px 0 #dbedf3;
+  border-radius: 15px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;
+  background-color: white;
+}
+#btn-6 {
+  background-image: url(images/kick.png);
+  outline: none;
+  border: 10px solid #404b69;
+  font-size: 5rem;
+  font-family: "Arvo", cursive;
+  line-height: 2;
+  font-weight: 900;
+  color: #da0463;
+  text-shadow: 3px 0 #dbedf3;
+  border-radius: 15px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;
+  background-color: white;
+}
+#btn-7 {
+  background-image: url(images/snare.png);
+  outline: none;
+  border: 10px solid #404b69;
+  font-size: 5rem;
+  font-family: "Arvo", cursive;
+  line-height: 2;
+  font-weight: 900;
+  color: #da0463;
+  text-shadow: 3px 0 #dbedf3;
+  border-radius: 15px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;
+  background-color: white;
+}
+@media screen and (max-width: 768px) {
+  * {
+    margin: 0;
+    overflow: auto;
+  }
+  #btn-1 {
+    overflow: hidden;
+  }
+  #btn-2 {
+    overflow: hidden;
+  }
+  #btn-3 {
+    overflow: hidden;
+  }
+  #btn-4 {
+    overflow: hidden;
+  }
+  #btn-5 {
+    overflow: hidden;
+  }
+  #btn-6 {
+    overflow: hidden;
+  }
+  #btn-7 {
+    overflow: hidden;
+  }
+  #title {
+    font-size: 64px;
+    text-align: center;
+    overflow: hidden;
+    padding-top: 16px;
+    padding-bottom: 16px;
+  }
+  #subtitle {
+    overflow: hidden;
+    padding-top: 16px;
+    padding-bottom: 16px;
+  }
+  #container {
+    display: block;
+    overflow: hidden;
+  }
+  #container-2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 70px;
+    margin-top: 32px;
+  }
+}
